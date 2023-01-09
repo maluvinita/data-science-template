@@ -14,9 +14,7 @@
 │   ├── processed                   # data after processing
 │   ├── raw                         # raw data
 ├── docs                            # documentation for your project
-├── .flake8                         # configuration for flake8 - a Python formatter tool
 ├── .gitignore                      # ignore files that cannot commit to Git
-├── Makefile                        # store useful commands to set up the environment
 ├── models                          # store models
 ├── notebooks                       # store notebooks
 ├── .pre-commit-config.yaml         # configurations for pre-commit
