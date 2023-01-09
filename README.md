@@ -25,7 +25,7 @@ _A standardized but flexible project structure for doing and sharing data scienc
 ```
 ### Requirements to use the cookiecutter-project template:
 -----------
- - Python 2.7 or 3.5+
+ - Python 3.8+
 ``` bash
 $ pip install cookiecutter
 ```
