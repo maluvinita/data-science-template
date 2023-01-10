@@ -32,4 +32,4 @@ $ pip install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/maluvinita/data-science-templete
+    cookiecutter https://github.com/maluvinita/data-science-template
